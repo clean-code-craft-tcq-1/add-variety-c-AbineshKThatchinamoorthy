@@ -1,3 +1,15 @@
+/******************************************************************************
+*****     (C) COPYRIGHT Robert Bosch GmbH CM-CI2 - All Rights Reserved     *****
+******************************************************************************/
+/*!
+***     \file        typewise-alert.c
+***     \author
+\nt                  Abinesh KanjiKovil Thatchinamoorthy
+***
+\par    File_description
+***                  Implementation of Battery Alert management system
+/*****************************************************************************/
+
 #include "typewise-alert.h"
 #include <stdio.h>
 
