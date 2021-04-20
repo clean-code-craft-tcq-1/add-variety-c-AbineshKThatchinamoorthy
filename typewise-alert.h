@@ -1,3 +1,15 @@
+/******************************************************************************
+*****     (C) COPYRIGHT Robert Bosch GmbH CM-CI2 - All Rights Reserved     *****
+******************************************************************************/
+/*!
+***     \file        typewise-alert.c
+***     \author
+\nt                  Abinesh KanjiKovil Thatchinamoorthy
+***
+\par    File_description
+***                  Header of Battery Alert management system
+/*****************************************************************************/
+
 #ifndef BMS_TYPE_ALERT_H_
 #define BMS_TYPE_ALERT_H_
 
