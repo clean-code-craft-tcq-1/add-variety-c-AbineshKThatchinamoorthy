@@ -2,7 +2,7 @@
 *****     (C) COPYRIGHT Robert Bosch GmbH CM-CI2 - All Rights Reserved     *****
 ******************************************************************************/
 /*!
-***     \file        typewise-alert.c
+***     \file        typewise-alert.h
 ***     \author
 \nt                  Abinesh KanjiKovil Thatchinamoorthy
 ***
@@ -80,3 +80,5 @@ void charge_TooHigh(void);
 void charge_Normal(void);
 
 #endif /*BMS_TYPE_ALERT_H_*/
+
+/* EOF */
